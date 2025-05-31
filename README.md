@@ -54,6 +54,6 @@ For detailed information about the hybrid micro-grid, machine learning technique
 
 **Project Team:**
 - Sakshi Jadhav
-- Samruddhi Khairnar
+- Samruddhi K
 - Kunika Narnaware
 - Pranjal Shewale
